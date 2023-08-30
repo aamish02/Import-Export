@@ -545,7 +545,6 @@ function get_uploaded_csv_files() {
             }
         }
     }
-
     return $csv_files;
 }
 ?>
